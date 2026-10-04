@@ -1,11 +1,11 @@
 ``` dart
-LAUNDRY EXPRESS TAPI GA EXPRESS
+#LAUNDRY EXPRESS TAPI GA EXPRESS
 RAFLY KURNIAWAN - 1124160165
 
-Business Rules
-BR-01: Tarif laundry sebesar Rp7.000 untuk setiap kg.
-BR-02: Berat laundry di bawah 2 kg tetap dihitung 2 kg.
-BR-03: Layanan Express mendapat tambahan biaya 50%.
+## BUSINESS RULE
+- **BR-01:** Tarif laundry sebesar Rp7.000 untuk setiap kg.
+- **BR-02:** Berat laundry di bawah 2 kg tetap dihitung 2 kg.
+- **BR-03:** Layanan Express mendapat tambahan biaya 50%.
 
 void main(){
   double totalBerat = 2;
